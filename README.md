@@ -65,23 +65,15 @@ Employers and HR staff can access detailed **attendance analytics** via the admi
 
 _(Confidential assets are not shared — sample mockups may be added here for demonstration.)_
 
-[!screenshot1](./public/Screenshot_20250910_111727_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111339_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111357_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111410_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111424_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111442_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111513_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111520_HRmove.jpg)
-
-[!screenshot1](./public/Screenshot_20250910_111536_HRmove.jpg)
+![Screenshot 1](./public/Screenshot_20250910_111727_HRmove.jpg)
+![Screenshot 2](./public/Screenshot_20250910_111339_HRmove.jpg)
+![Screenshot 3](./public/Screenshot_20250910_111357_HRmove.jpg)
+![Screenshot 4](./public/Screenshot_20250910_111410_HRmove.jpg)
+![Screenshot 5](./public/Screenshot_20250910_111424_HRmove.jpg)
+![Screenshot 6](./public/Screenshot_20250910_111442_HRmove.jpg)
+![Screenshot 7](./public/Screenshot_20250910_111513_HRmove.jpg)
+![Screenshot 8](./public/Screenshot_20250910_111520_HRmove.jpg)
+![Screenshot 9](./public/Screenshot_20250910_111536_HRmove.jpg)
 
 ---
 
